@@ -1,8 +1,8 @@
 
 
 # 💫 About Me:
-Hello everyone.  ı'm öztürk Bandırma onyedi eylül, I am a graduate of the computer programming department of the university.<br>I have experience in React, React Native Mobile developer.<br>I continue to develop.<br>
-🌱 I’m currently learning:  .net and Next.js<br>💬 Ask me about : React Native, react, redux, firebase, typescript, javascript<br>
+Hello everyone.  I'm öztürk Bandırma onyedi eylül, I am a graduate of the computer programming department of the university.<br>I have experience in React, React Native Mobile developer.<br>I continue to develop.<br>
+🌱 I’m currently learning:  Nest.JS and Next.js<br>💬 Ask me about : React Native, react, redux, firebase, typescript, javascript<br>
 
 
 ## 🌐 Socials:
